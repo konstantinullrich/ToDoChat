@@ -1,0 +1,57 @@
+body {
+  margin: 64px 0 0 0;
+  overflow: hidden;
+  height: calc(100vh - 64px);
+}
+
+div#root {
+  display: flex;
+  justify-content: space-around;
+}
+
+div#root > div {
+  margin-top: 5vh;
+}
+
+div#root div form {
+  box-shadow: lightgray 0 0 6px 1px;
+  box-shadow: lightgray 5px 0 6px -5px;
+  box-shadow: lightgray 0 12px 6px -8px;
+}
+
+div#root div div ul {
+  height: 44vh;
+  overflow-y: scroll;
+}
+
+/*
+main {
+  width: 60%;
+  height: 80vh;
+  margin: 5vh 0;
+}
+
+aside {
+  width: 35%;
+  height: 80vh;
+  margin: 5vh 0;
+  box-shadow: lightgray 0 0 6px 1px;
+  overflow: hidden;
+}
+
+aside > form {
+  display: flex;
+  flex-flow: column;
+  justify-content: space-around;
+  padding: 2vh 2vw;
+  box-shadow: lightgray 0 0 6px 1px;
+}
+aside > form > div {
+  margin: 2em 0;
+}
+
+aside > ul {
+  overflow-y: scroll;
+  height: 80%;
+}
+*/
