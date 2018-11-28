@@ -5,7 +5,7 @@ The Docs to getStarted are here:
   - todochat-react/README.md
   
  ## PRESENTATION
- Check out: https://github.com/LordKonsti/ToDoChat/blob/master/presentation.pdf 
+ Check out: https://github.com/konstantinullrich/ToDoChat/blob/master/presentation.pdf 
   
 
 ### Codestyle Guide
