@@ -15,4 +15,4 @@ https://github.com/airbnb/javascript/tree/master/react
 
 # Credit
 
-by Tim Müller (@TimMuellair), Konstantin Ullrich (@LordKonsti) , Moritz Wolf (@mowolf) at the FTL Hackaton on Fr 19. Oct 2018.
+by Tim Müller (@TimMuellair), Konstantin Ullrich (@konstantinullrich) , Moritz Wolf (@mowolf) at the FTL Hackaton on Fr 19. Oct 2018.
